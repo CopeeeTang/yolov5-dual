@@ -1,0 +1,9 @@
+# ninja log v5
+21	10207	7201813131369015	E:/yolov5-master/yolov5_obb-master/yolov5_obb-master/utils/nms_rotated/build/temp.win-amd64-cpython-310/Release/src/nms_rotated_cpu.obj	af87b6743c60ca2b
+11	18806	7201813217234292	E:/yolov5-master/yolov5_obb-master/yolov5_obb-master/utils/nms_rotated/build/temp.win-amd64-cpython-310/Release/src/nms_rotated_ext.obj	ee868d5c168dd74d
+24	29458	7201813323570438	E:/yolov5-master/yolov5_obb-master/yolov5_obb-master/utils/nms_rotated/build/temp.win-amd64-cpython-310/Release/src/poly_nms_cuda_1.11.obj	809984d4b420e3b8
+1	31575	7201813344826527	E:/yolov5-master/yolov5_obb-master/yolov5_obb-master/utils/nms_rotated/build/temp.win-amd64-cpython-310/Release/src/nms_rotated_cuda.obj	3b6affa00c866add
+32	7148	7201841572890323	E:/yolov5-master/yolov5_obb-master/yolov5_obb-master/utils/nms_rotated/build/temp.win-amd64-cpython-310/Release/src/nms_rotated_cpu.obj	dc49f021ea0487f4
+36	14219	7201841643563724	E:/yolov5-master/yolov5_obb-master/yolov5_obb-master/utils/nms_rotated/build/temp.win-amd64-cpython-310/Release/src/nms_rotated_ext.obj	4e8144df3ab92827
+41	20606	7201841707234314	E:/yolov5-master/yolov5_obb-master/yolov5_obb-master/utils/nms_rotated/build/temp.win-amd64-cpython-310/Release/src/poly_nms_cuda_1.11.obj	830039717d0c10d6
+38	23400	7201841735180255	E:/yolov5-master/yolov5_obb-master/yolov5_obb-master/utils/nms_rotated/build/temp.win-amd64-cpython-310/Release/src/nms_rotated_cuda.obj	cd4e8aba576b492d

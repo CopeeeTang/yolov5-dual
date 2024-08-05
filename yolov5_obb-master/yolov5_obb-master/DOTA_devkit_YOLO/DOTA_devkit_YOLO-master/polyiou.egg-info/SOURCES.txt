@@ -1,0 +1,9 @@
+README.md
+polyiou.cpp
+polyiou.py
+polyiou_wrap.cxx
+setup.py
+polyiou.egg-info/PKG-INFO
+polyiou.egg-info/SOURCES.txt
+polyiou.egg-info/dependency_links.txt
+polyiou.egg-info/top_level.txt
